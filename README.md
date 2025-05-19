@@ -3,7 +3,7 @@ Ancient Greek Dependency Treebanks pruned
 
 ## Purpose
 
-This repository prunes down openly available, complex syntactical treebanks (XML and CoNNL-U) into simple CSV files in a format similar to the CATSS/BGM (Computer Assisted Tools for Septuagint/Scripture Studies) format, while preserving intact all [Ancient Greek Dependency Treebank, or AGDT morphological encodingss](https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md), 
+This repository prunes down openly available, complex syntactical treebanks (XML and CoNNL-U) into simple CSV files in a format similar to the CATSS/BGM (Computer Assisted Tools for Septuagint/Scripture Studies) format, while preserving intact all base word forms and [Ancient Greek Dependency Treebank / AGDT morphological encodingss](https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md), 
 
 Essentially, texts are presented in their normal running sequence, but each word is split into two parts, and a "@" delimiter is put between them, kind of like an email address. 
 The part to the left of the "@" symbol is the standard dictionary word form (lemma).
