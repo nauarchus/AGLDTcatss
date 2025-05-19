@@ -19,19 +19,21 @@ This format has several advantages for computational linguistics research:
 
 ## File and Directory Names and Structures
 
-To avoid confusion and to participate in the linked open data movement, this corpus uses Canonical Text Service uniform resource names (cts_urn) for documents and folder structures, just like the Perseus Digital Library, the Patristic Text Archive, etc.
+To avoid confusion and to participate in the linked open data movement, this corpus uses Canonical Text Service uniform resource names (cts_urn) for documents and folder structures, just like the Perseus Digital Library, the Patristic Text Archive, etc. These identifiers take a little getting used to, but trust, they help everyone stay organized and on the same page.
 
-All documents are found within a "data" directory. Within that directory, a separate subfolder is created for each author or collection.
+All cts_urn compliant documents sit within a "data" directory. 
+
+Within the "data" directory, a separate subfolder is created for each author or collection.
 
 > *Plutarch, for example, is tlg0007. The New Testament is tlg0031.*
 
 Within those directories, separate subdirectories are created for each work.
 
-> *The Gospel of Matthew, for example, is tlg001."*
+> *The Gospel of Matthew is located in the tlg001 subfolder of the New Testament folder tlg0031.*
 
 All document filenames use this author.work composite key as a prefix.
 
-> *The Gospel of Matthew, thus, has the composite cts_urn identifier tlg0031.tlg001.*
+> *The Gospel of Matthew has the composite cts_urn identifier tlg0031.tlg001.*
 
 The middle part of the filename identifies the project or group, in our case, "catss".
 
@@ -39,7 +41,7 @@ The middle part of the filename identifies the project or group, in our case, "c
 
 Finally, the filename suffix reflects the language and version. Currently, Greek is the only language in use, and typically only one version exists for each work.
 
-> *The entire filename for the Gospel of Matthew here is, then, tlg0031.tlg001.catss-grc1.txt*
+> *The entire filename for the Gospel of Matthew here is tlg0031.tlg001.catss-grc1.txt*
 
 
 ## Text Structure
