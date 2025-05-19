@@ -5,7 +5,10 @@ Ancient Greek Dependency Treebanks pruned
 
 This repository prunes down openly available, complex syntactical treebanks (XML and CoNNL-U) into simple CSV files in a format similar to the CATSS/BGM (Computer Assisted Tools for Septuagint/Scripture Studies) format, while preserving intact all [Ancient Greek Dependency Treebank, or AGDT morphological encodingss](https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md), 
 
-Essentially, texts are presented in their normal running sequence, but each word is split into two parts, and a "@" delimiter is put between them, kind of like an email address. The part to the left of the "@" symbol is the standard dictionary word form (lemma), while the part to the right is the nine chararacter AGDT morphological tag describing the word form (part of speech, person, number, tense, mood, voice, gender, case, and degree). AGDT uses hyphens "-" in place of null fields whenever applicable.
+Essentially, texts are presented in their normal running sequence, but each word is split into two parts, and a "@" delimiter is put between them, kind of like an email address. 
+The part to the left of the "@" symbol is the standard dictionary word form (lemma).
+
+The part to the right is the nine chararacter AGDT morphological tag describing the word form (part of speech, person, number, tense, mood, voice, gender, case, and degree). AGDT uses hyphens "-" in place of null fields whenever a subfield is not applicable.
 
 This format has several advantages for computational linguistics research:
 - it reflects the internal reference structure of documents (e.g., books, sections, chapters, verses, line numbers), making it easier to correlate with human readable editions and translations
