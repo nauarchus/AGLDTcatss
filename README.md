@@ -35,7 +35,7 @@ Work filenames use this author.work composite key as a prefix, with periods plac
 
 > *The Gospel of Matthew has the composite cts_urn identifier tlg0031.tlg001.*
 
-The middle part of the filename identifies the project or group, in our case, "catss", followed by a hyphen.
+The middle part of the filename identifies the project or group, in our case, "agdtm", followed by a hyphen.
 
 > *The Gospel of Matthew within this project is known as tlg0031.tlg001.catss-*
 
