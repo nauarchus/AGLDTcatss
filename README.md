@@ -31,7 +31,7 @@ Within those directories, separate subdirectories are created for each work.
 
 > *The Gospel of Matthew is located in the tlg001 subfolder of the New Testament folder tlg0031.*
 
-All document filenames use this author.work composite key as a prefix, with periods placed between fields and after the composite key.
+Work filenames use this author.work composite key as a prefix, with periods placed between fields and after the composite key.
 
 > *The Gospel of Matthew has the composite cts_urn identifier tlg0031.tlg001.*
 
