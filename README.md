@@ -19,7 +19,7 @@ This format has several advantages for computational linguistics research:
 
 ## File and Directory Names and Structures
 
-To avoid confusion and to participate in the linked open data movement, this corpus uses Canonical Text Service uniform resource names (cts_urn) for documents and folder structures, just like the Perseus Digital Library, the Patristic Text Archive, etc. These identifiers take a little getting used to, but trust, they help everyone stay organized and on the same page.
+To avoid confusion and to participate in the Linked Open Data ecosystem, this corpus uses Canonical Text Service uniform resource names (cts_urn) for documents and folder structures, just like the Perseus Digital Library, the Patristic Text Archive, etc. These identifiers take a little getting used to, but trust, they help everyone stay organized and on the same page.
 
 All cts_urn compliant documents sit within a "data" directory. 
 
