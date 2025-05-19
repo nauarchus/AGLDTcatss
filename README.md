@@ -48,9 +48,9 @@ Finally, the filename suffix reflects the language and version. Currently, Greek
 
 Each CSV consists of two columns: location and text.
 
-Locations can be purely numeric or alphanumeric, and subdivisions within a location are separated by periods.
+Locations reflect subdivisions used within the text, such as books, sections, chapters, verses, lines, etc. Locations can be purely numeric or alphanumeric, and subdivisions within a location are always separated by periods.
 
-Text fields contain the running sequence of wordroot@morphtag values for a specific location.
+Text fields contain the running sequence of lemma@morphtag values for each specific location.
 
 For example, the opening verse of the Gospel of Matthew reads:
 1.1,βίβλος@nnfsc γένεσις@ngfsc Ἰησοῦς@ngmsp Χριστός@ngmsp υἱός@ngmsc Δαυίδ@ngmsp υἱός@ngmsc Ἀβραάμ@ngmsp
