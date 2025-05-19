@@ -88,4 +88,4 @@ The GLAUx corpus was described in this earlier article:
 > Keersmaekers, Alek (2021): The GLAUx corpus: methodological issues in designing a long-term, diverse, multi-layered corpus of Ancient Greek. *Proceedings of the 2nd International Workshop on Computational Approaches to Historical Language Change 2021*, 39–50. Online: Association for Computational Linguistics. doi:10.18653/v1/2021.lchange-1.6.
 
 To cite this repository specifically, and/or to access its archival version on Zenodo, see:
-> Bilby, Mark G. "AGDTiny: Ancient Greek Lemma and Morphological Strings". Release 0.2.0. 2025-05-20. https://doi.org/10.5281/{forthcoming}
+> Bilby, Mark G. "AGDTiny: Ancient Greek Lemma and Morphological Strings". Release 0.2.0. 2025-05-20. {doi_forthcoming}
