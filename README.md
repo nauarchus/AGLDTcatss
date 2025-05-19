@@ -31,13 +31,13 @@ Within those directories, separate subdirectories are created for each work.
 
 > *The Gospel of Matthew is located in the tlg001 subfolder of the New Testament folder tlg0031.*
 
-All document filenames use this author.work composite key as a prefix.
+All document filenames use this author.work composite key as a prefix, with periods placed between fields and after the composite key.
 
 > *The Gospel of Matthew has the composite cts_urn identifier tlg0031.tlg001.*
 
-The middle part of the filename identifies the project or group, in our case, "catss".
+The middle part of the filename identifies the project or group, in our case, "catss", followed by a hyphen.
 
-> *The Gospel of Matthew within this project is known as tlg0031.tlg001.catss.*
+> *The Gospel of Matthew within this project is known as tlg0031.tlg001.catss-*
 
 Finally, the filename suffix reflects the language and version. Currently, Greek is the only language in use, and typically only one version exists for each work.
 
