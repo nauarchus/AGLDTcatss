@@ -1,5 +1,5 @@
 # AGDTiny
-Ancient Greek Dependency Treebanks pruned
+Ancient Greek Dependency Treebanks pruned into flat CATSS format
 
 ## Purpose
 
