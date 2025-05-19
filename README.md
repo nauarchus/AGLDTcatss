@@ -23,17 +23,24 @@ To avoid confusion and to participate in the linked open data movement, this cor
 
 All documents are found within a "data" directory. Within that directory, a separate subfolder is created for each author or collection.
 
-Plutarch, for example, is tlg0007. The New Testament is tlg0031.
+*Plutarch, for example, is tlg0007. The New Testament is tlg0031.*
 
 Within those directories, separate subdirectories are created for each work.
 
-The Gospel of Matthew, for example, is tlg001. Its composite cts_urn identifier, then, is tlg0031.tlg001.
+*The Gospel of Matthew, for example, is tlg001."*
 
-All document filenames use this composite key as a prefix.
+All document filenames use this author.work composite key as a prefix.
 
-The middle of the filename identifies the project or group. For this project, "catss" is that middle term.
+*The Gospel of Matthew, thus, has the composite cts_urn identifier tlg0031.tlg001.*
 
-Finally, the filename suffix reflects the language and version. For this project, 
+The middle part of the filename identifies the project or group, in our case, "catss".
+
+*The Gospel of Matthew within this project is known as tlg0031.tlg001.catss.*
+
+Finally, the filename suffix reflects the language and version. Currently, Greek is the only language in use, and typically only one version exists for each work.
+
+*The entire filename for the Gospel of Matthew here is, then, tlg0031.tlg001.catss-grc1.txt*
+
 
 ## Text Structure
 
