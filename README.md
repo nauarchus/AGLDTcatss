@@ -1,5 +1,5 @@
 # AGDTmini
-Ancient Greek Dependency Treebanks pruned into flat, concatenated lemma@XPOS format
+Ancient Greek Dependency Treebanks (AGDT) pruned into flat, location-specific lemma@XPOS formatted strings
 
 ## Purpose
 
