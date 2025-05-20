@@ -1,11 +1,12 @@
 # AGDTmini
-Ancient Greek Dependency Treebanks pruned into flat CATSS format
+Ancient Greek Dependency Treebanks pruned into flat, concatenated lemma@XPOS format
 
 ## Purpose
 
-This repository prunes down openly available, complex syntactical treebanks (XML and CoNNL-U) into simple CSV files in a format similar to the CATSS/BGM (Computer Assisted Tools for Septuagint/Scripture Studies) format, while preserving intact all base word forms and [Ancient Greek Dependency Treebank / AGDT morphological encodingss](https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md), 
+This repository prunes down openly available, complex syntactical treebanks (XML and CoNNL-U) into simple CSV files in a format similar to the CATSS/BGM (Computer Assisted Tools for Septuagint/Scripture Studies), while preserving intact all base word forms and [Ancient Greek Dependency Treebank / AGDT XPOS fields from the morphological encodings layer](https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md), 
 
-Essentially, texts are presented in their normal running sequence, but each word is split into two parts, and a "@" delimiter is put between them, kind of like an email address. 
+In layman's terms, that means words are presented in their normal readable sequence, but each word is split into two parts, and a "@" delimiter is put between them, kind of like an email address.
+
 The part to the left of the "@" symbol is the standard dictionary word form (lemma).
 
 The part to the right is the nine chararacter AGDT morphological tag describing the word form (part of speech, person, number, tense, mood, voice, gender, case, and degree). AGDT uses hyphens "-" in place of null fields whenever a subfield is not applicable.
