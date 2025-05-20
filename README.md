@@ -51,10 +51,10 @@ Each CSV consists of two columns: location and text.
 
 Locations reflect subdivisions used within the text, such as books, sections, chapters, verses, lines, etc. Locations can be purely numeric or alphanumeric, and subdivisions within a location are always separated by periods.
 
-Text fields contain the running sequence of lemma@morphtag values for each specific location.
+Text fields contain the running sequence of lemma@XPOS values for each specific location.
 
 For example, the opening verse of the Gospel of Matthew reads:
-1.1,βίβλος@nnfsc γένεσις@ngfsc Ἰησοῦς@ngmsp Χριστός@ngmsp υἱός@ngmsc Δαυίδ@ngmsp υἱός@ngmsc Ἀβραάμ@ngmsp
+
 
 A key to the BibleWorks Greek Morphology is available on Zenodo.
 
