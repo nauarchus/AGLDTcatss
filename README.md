@@ -38,11 +38,11 @@ Work filenames use this author.work composite key as a prefix, with periods plac
 
 The middle part of the filename identifies the project or group, in our case, "agdtm", followed by a hyphen.
 
-> *The Gospel of Matthew within this project is known as tlg0031.tlg001.catss-*
+> *The Gospel of Matthew within this project is known as tlg0031.tlg001.agdtm-*
 
 Finally, the filename suffix reflects the language and version. Currently, Greek is the only language in use, and typically only one version exists for each work.
 
-> *The entire filename for the Gospel of Matthew here is tlg0031.tlg001.catss-grc1.txt*
+> *The entire filename for the Gospel of Matthew here is tlg0031.tlg001.agdtm-grc1.txt*
 
 
 ## Text Structure
