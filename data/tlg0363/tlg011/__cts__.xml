@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0363" projid="greekLit:tlg0363" urn="urn:cts:greekLit:tlg0363.tlg011" xml:lang="grc">
+  <ti:title xml:lang="eng">Musica</ti:title>
+  <ti:author xml:lang="eng">Claudius Ptolemaeus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0363.tlg011.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0363.tlg011" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Claudius Ptolemaeus, Musica</ti:label>
+    <ti:description xml:lang="eng">Claudius Ptolemaeus, Musica</ti:description>
+  </ti:edition>
+</ti:work>

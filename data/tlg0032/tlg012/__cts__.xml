@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0032" projid="greekLit:tlg0032" urn="urn:cts:greekLit:tlg0032.tlg012" xml:lang="grc">
+  <ti:title xml:lang="eng">On the Cavalry Commander</ti:title>
+  <ti:author xml:lang="eng">Xenophon</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0032.tlg012.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0032.tlg012" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Xenophon, On the Cavalry Commander</ti:label>
+    <ti:description xml:lang="eng">Xenophon, On the Cavalry Commander</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg3118" projid="greekLit:tlg3118" urn="urn:cts:greekLit:tlg3118.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Ιστορικον Συντιπα του Φιλοσοφου Ωραιοτατον Πανυ_Syntipas (translatio Michael Andreopuli)</ti:title>
+  <ti:author xml:lang="eng">Syntipas</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg3118.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg3118.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Syntipas, Ιστορικον Συντιπα του Φιλοσοφου Ωραιοτατον Πανυ_Syntipas (translatio Michael Andreopuli)</ti:label>
+    <ti:description xml:lang="eng">Syntipas, Ιστορικον Συντιπα του Φιλοσοφου Ωραιοτατον Πανυ_Syntipas (translatio Michael Andreopuli)</ti:description>
+  </ti:edition>
+</ti:work>

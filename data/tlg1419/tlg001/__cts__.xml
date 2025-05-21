@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1419" projid="greekLit:tlg1419" urn="urn:cts:greekLit:tlg1419.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">The Shepherd of Hermas</ti:title>
+  <ti:author xml:lang="eng">Hermas</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1419.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1419.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Hermas, The Shepherd of Hermas</ti:label>
+    <ti:description xml:lang="eng">Hermas, The Shepherd of Hermas</ti:description>
+  </ti:edition>
+</ti:work>

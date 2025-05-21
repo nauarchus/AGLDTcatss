@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0007" projid="greekLit:tlg0007" urn="urn:cts:greekLit:tlg0007.tlg082b" xml:lang="grc">
+  <ti:title xml:lang="eng">Lacaenarum Apophthegmata</ti:title>
+  <ti:author xml:lang="eng">Plutarch</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0007.tlg082b.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0007.tlg082b" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Plutarch, Lacaenarum Apophthegmata</ti:label>
+    <ti:description xml:lang="eng">Plutarch, Lacaenarum Apophthegmata</ti:description>
+  </ti:edition>
+</ti:work>

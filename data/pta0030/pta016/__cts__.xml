@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:pta0030" projid="greekLit:pta0030" urn="urn:cts:greekLit:pta0030.pta016" xml:lang="grc">
+  <ti:title xml:lang="eng">De die dominica</ti:title>
+  <ti:author xml:lang="eng">Eusebius (“Alexandrinus”)</ti:author>
+  <ti:edition urn="urn:cts:greekLit:pta0030.pta016.agdtm-grc1" workUrn="urn:cts:greekLit:pta0030.pta016" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Eusebius (“Alexandrinus”), De die dominica</ti:label>
+    <ti:description xml:lang="eng">Eusebius (“Alexandrinus”), De die dominica</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0087" projid="greekLit:tlg0087" urn="urn:cts:greekLit:tlg0087.tlg018" xml:lang="grc">
+  <ti:title xml:lang="eng">Μονόβιβλον περὶ τοῦ μὴ πάντα τὰ ῥήματα κλίνεσθαι εἰς πάντας τοὺς χρόνους</ti:title>
+  <ti:author xml:lang="eng">Aelius Herodianus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0087.tlg018.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0087.tlg018" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Aelius Herodianus, Μονόβιβλον περὶ τοῦ μὴ πάντα τὰ ῥήματα κλίνεσθαι εἰς πάντας τοὺς χρόνους</ti:label>
+    <ti:description xml:lang="eng">Aelius Herodianus, Μονόβιβλον περὶ τοῦ μὴ πάντα τὰ ῥήματα κλίνεσθαι εἰς πάντας τοὺς χρόνους</ti:description>
+  </ti:edition>
+</ti:work>

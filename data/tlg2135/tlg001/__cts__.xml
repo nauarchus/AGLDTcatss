@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2135" projid="greekLit:tlg2135" urn="urn:cts:greekLit:tlg2135.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Isagoge musica</ti:title>
+  <ti:author xml:lang="eng">Alypius</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2135.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2135.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Alypius, Isagoge musica</ti:label>
+    <ti:description xml:lang="eng">Alypius, Isagoge musica</ti:description>
+  </ti:edition>
+</ti:work>

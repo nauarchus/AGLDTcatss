@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg4170" projid="greekLit:tlg4170" urn="urn:cts:greekLit:tlg4170.tlg001a" xml:lang="grc">
+  <ti:title xml:lang="eng">Vita Ambrosiana</ti:title>
+  <ti:author xml:lang="eng">Vitae Pindari et varia de Pindaro</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg4170.tlg001a.agdtm-grc1" workUrn="urn:cts:greekLit:tlg4170.tlg001a" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Vitae Pindari et varia de Pindaro, Vita Ambrosiana</ti:label>
+    <ti:description xml:lang="eng">Vitae Pindari et varia de Pindaro, Vita Ambrosiana</ti:description>
+  </ti:edition>
+</ti:work>

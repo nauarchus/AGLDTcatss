@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1487" projid="greekLit:tlg1487" urn="urn:cts:greekLit:tlg1487.tlg002" xml:lang="grc">
+  <ti:title xml:lang="eng">Περὶ καταρχῶν (epitome)_Carminum de actionum auspiciis reliquiae (epitome)</ti:title>
+  <ti:author xml:lang="eng">Maximus, Astrologus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1487.tlg002.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1487.tlg002" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Maximus, Astrologus, Περὶ καταρχῶν (epitome)_Carminum de actionum auspiciis reliquiae (epitome)</ti:label>
+    <ti:description xml:lang="eng">Maximus, Astrologus, Περὶ καταρχῶν (epitome)_Carminum de actionum auspiciis reliquiae (epitome)</ti:description>
+  </ti:edition>
+</ti:work>

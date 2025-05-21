@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0527" projid="greekLit:tlg0527" urn="urn:cts:greekLit:tlg0527.tlg059" xml:lang="grc">
+  <ti:title xml:lang="eng">Bel et Draco</ti:title>
+  <ti:author xml:lang="eng">Bible</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0527.tlg059.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0527.tlg059" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Bible, Bel et Draco</ti:label>
+    <ti:description xml:lang="eng">Bible, Bel et Draco</ti:description>
+  </ti:edition>
+</ti:work>

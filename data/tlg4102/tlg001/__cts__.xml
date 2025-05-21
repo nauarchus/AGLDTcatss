@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg4102" projid="greekLit:tlg4102" urn="urn:cts:greekLit:tlg4102.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Catena In Matthaeum (Catena Integra) (E Cod. Paris. Coislin. Gr. 23)</ti:title>
+  <ti:author xml:lang="eng">Catenae (Novum Testamentum)</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg4102.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg4102.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Catenae (Novum Testamentum), Catena In Matthaeum (Catena Integra) (E Cod. Paris. Coislin. Gr. 23)</ti:label>
+    <ti:description xml:lang="eng">Catenae (Novum Testamentum), Catena In Matthaeum (Catena Integra) (E Cod. Paris. Coislin. Gr. 23)</ti:description>
+  </ti:edition>
+</ti:work>

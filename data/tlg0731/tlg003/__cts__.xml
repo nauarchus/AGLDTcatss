@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0731" projid="greekLit:tlg0731" urn="urn:cts:greekLit:tlg0731.tlg003" xml:lang="grc">
+  <ti:title xml:lang="eng">Physiognomonica (epitome Matritensis)</ti:title>
+  <ti:author xml:lang="eng">Adamantius Judaeus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0731.tlg003.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0731.tlg003" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Adamantius Judaeus, Physiognomonica (epitome Matritensis)</ti:label>
+    <ti:description xml:lang="eng">Adamantius Judaeus, Physiognomonica (epitome Matritensis)</ti:description>
+  </ti:edition>
+</ti:work>

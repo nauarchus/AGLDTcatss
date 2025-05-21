@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:stoa0033a" projid="greekLit:stoa0033a" urn="urn:cts:greekLit:stoa0033a.tlg028" xml:lang="grc">
+  <ti:title xml:lang="eng">De mundo</ti:title>
+  <ti:author xml:lang="eng">Pseudo-Aristotle</ti:author>
+  <ti:edition urn="urn:cts:greekLit:stoa0033a.tlg028.agdtm-grc1" workUrn="urn:cts:greekLit:stoa0033a.tlg028" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Pseudo-Aristotle, De mundo</ti:label>
+    <ti:description xml:lang="eng">Pseudo-Aristotle, De mundo</ti:description>
+  </ti:edition>
+</ti:work>

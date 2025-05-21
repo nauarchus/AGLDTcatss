@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg4016" projid="greekLit:tlg4016" urn="urn:cts:greekLit:tlg4016.tlg004" xml:lang="grc">
+  <ti:title xml:lang="eng">In Aristotelis Analyticorum Priorum Librum I Commentarium</ti:title>
+  <ti:author xml:lang="eng">Ammonius</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg4016.tlg004.agdtm-grc1" workUrn="urn:cts:greekLit:tlg4016.tlg004" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Ammonius, In Aristotelis Analyticorum Priorum Librum I Commentarium</ti:label>
+    <ti:description xml:lang="eng">Ammonius, In Aristotelis Analyticorum Priorum Librum I Commentarium</ti:description>
+  </ti:edition>
+</ti:work>

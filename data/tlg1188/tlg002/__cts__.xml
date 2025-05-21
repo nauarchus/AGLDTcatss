@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1188" projid="greekLit:tlg1188" urn="urn:cts:greekLit:tlg1188.tlg002" xml:lang="grc">
+  <ti:title xml:lang="eng">Fragmenta</ti:title>
+  <ti:author xml:lang="eng">Aristocles of Messene</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1188.tlg002.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1188.tlg002" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Aristocles of Messene, Fragmenta</ti:label>
+    <ti:description xml:lang="eng">Aristocles of Messene, Fragmenta</ti:description>
+  </ti:edition>
+</ti:work>

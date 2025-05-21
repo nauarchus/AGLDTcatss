@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0564" projid="greekLit:tlg0564" urn="urn:cts:greekLit:tlg0564.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">De renum et vesicae affectionibus</ti:title>
+  <ti:author xml:lang="eng">Rufus of Ephesus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0564.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0564.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Rufus of Ephesus, De renum et vesicae affectionibus</ti:label>
+    <ti:description xml:lang="eng">Rufus of Ephesus, De renum et vesicae affectionibus</ti:description>
+  </ti:edition>
+</ti:work>

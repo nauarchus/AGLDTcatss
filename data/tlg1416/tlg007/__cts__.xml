@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1416" projid="greekLit:tlg1416" urn="urn:cts:greekLit:tlg1416.tlg007" xml:lang="grc">
+  <ti:title xml:lang="eng">De diversis verborum significationibus (= Περὶ διαφόρους σημασίας κατ’ ἀλφάβητον) (epitome operis Herennii Philonis)</ti:title>
+  <ti:author xml:lang="eng">Philo of Byblos</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1416.tlg007.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1416.tlg007" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Philo of Byblos, De diversis verborum significationibus (= Περὶ διαφόρους σημασίας κατ’ ἀλφάβητον) (epitome operis Herennii Philonis)</ti:label>
+    <ti:description xml:lang="eng">Philo of Byblos, De diversis verborum significationibus (= Περὶ διαφόρους σημασίας κατ’ ἀλφάβητον) (epitome operis Herennii Philonis)</ti:description>
+  </ti:edition>
+</ti:work>

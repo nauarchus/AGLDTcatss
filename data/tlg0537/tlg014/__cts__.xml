@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0537" projid="greekLit:tlg0537" urn="urn:cts:greekLit:tlg0537.tlg014" xml:lang="grc">
+  <ti:title xml:lang="eng">Gnomologium Vaticanum Epicureum</ti:title>
+  <ti:author xml:lang="eng">Epicurus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0537.tlg014.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0537.tlg014" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Epicurus, Gnomologium Vaticanum Epicureum</ti:label>
+    <ti:description xml:lang="eng">Epicurus, Gnomologium Vaticanum Epicureum</ti:description>
+  </ti:edition>
+</ti:work>

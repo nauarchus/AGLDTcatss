@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0649" projid="greekLit:tlg0649" urn="urn:cts:greekLit:tlg0649.tlg003" xml:lang="grc">
+  <ti:title xml:lang="eng">Protrepticus B</ti:title>
+  <ti:author xml:lang="eng">Lesbonax (Rhetorician)</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0649.tlg003.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0649.tlg003" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Lesbonax (Rhetorician), Protrepticus B</ti:label>
+    <ti:description xml:lang="eng">Lesbonax (Rhetorician), Protrepticus B</ti:description>
+  </ti:edition>
+</ti:work>

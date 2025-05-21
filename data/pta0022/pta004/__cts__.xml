@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:pta0022" projid="greekLit:pta0022" urn="urn:cts:greekLit:pta0022.pta004" xml:lang="grc">
+  <ti:title xml:lang="eng">De sententia Dionysii</ti:title>
+  <ti:author xml:lang="eng">Athanasius of Alexandria</ti:author>
+  <ti:edition urn="urn:cts:greekLit:pta0022.pta004.agdtm-grc1" workUrn="urn:cts:greekLit:pta0022.pta004" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Athanasius of Alexandria, De sententia Dionysii</ti:label>
+    <ti:description xml:lang="eng">Athanasius of Alexandria, De sententia Dionysii</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0085" projid="greekLit:tlg0085" urn="urn:cts:greekLit:tlg0085.tlg005" xml:lang="grc">
+  <ti:title xml:lang="eng">Agamemnon</ti:title>
+  <ti:author xml:lang="eng">Aeschylus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0085.tlg005.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0085.tlg005" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Aeschylus, Agamemnon</ti:label>
+    <ti:description xml:lang="eng">Aeschylus, Agamemnon</ti:description>
+  </ti:edition>
+</ti:work>

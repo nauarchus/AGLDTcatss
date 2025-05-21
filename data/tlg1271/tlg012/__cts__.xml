@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1271" projid="greekLit:tlg1271" urn="urn:cts:greekLit:tlg1271.tlg012" xml:lang="grc">
+  <ti:title xml:lang="eng">Pseudo‑Clementina (epitome de gestis Petri praemetaphrastica) [Sp.]</ti:title>
+  <ti:author xml:lang="eng">Clemens Romanus (Clement of Rome)</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1271.tlg012.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1271.tlg012" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Clemens Romanus (Clement of Rome), Pseudo‑Clementina (epitome de gestis Petri praemetaphrastica) [Sp.]</ti:label>
+    <ti:description xml:lang="eng">Clemens Romanus (Clement of Rome), Pseudo‑Clementina (epitome de gestis Petri praemetaphrastica) [Sp.]</ti:description>
+  </ti:edition>
+</ti:work>

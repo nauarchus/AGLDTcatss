@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0284" projid="greekLit:tlg0284" urn="urn:cts:greekLit:tlg0284.tlg051" xml:lang="grc">
+  <ti:title xml:lang="eng">Orationes 51</ti:title>
+  <ti:author xml:lang="eng">Aristides, Aelius</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0284.tlg051.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0284.tlg051" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Aristides, Aelius, Orationes 51</ti:label>
+    <ti:description xml:lang="eng">Aristides, Aelius, Orationes 51</ti:description>
+  </ti:edition>
+</ti:work>

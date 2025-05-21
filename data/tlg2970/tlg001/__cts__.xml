@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2970" projid="greekLit:tlg2970" urn="urn:cts:greekLit:tlg2970.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Περὶ ψυχῆς (fragmentum)</ti:title>
+  <ti:author xml:lang="eng">Severus Philosophus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2970.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2970.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Severus Philosophus, Περὶ ψυχῆς (fragmentum)</ti:label>
+    <ti:description xml:lang="eng">Severus Philosophus, Περὶ ψυχῆς (fragmentum)</ti:description>
+  </ti:edition>
+</ti:work>

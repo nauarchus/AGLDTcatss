@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1553" projid="greekLit:tlg1553" urn="urn:cts:greekLit:tlg1553.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">De Incredibilibus</ti:title>
+  <ti:author xml:lang="eng">Palaiphatos</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1553.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1553.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Palaiphatos, De Incredibilibus</ti:label>
+    <ti:description xml:lang="eng">Palaiphatos, De Incredibilibus</ti:description>
+  </ti:edition>
+</ti:work>

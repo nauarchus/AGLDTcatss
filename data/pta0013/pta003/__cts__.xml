@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:pta0013" projid="greekLit:pta0013" urn="urn:cts:greekLit:pta0013.pta003" xml:lang="grc">
+  <ti:title xml:lang="eng">Epistula synodalis</ti:title>
+  <ti:author xml:lang="eng">Amphilochius of Iconium</ti:author>
+  <ti:edition urn="urn:cts:greekLit:pta0013.pta003.agdtm-grc1" workUrn="urn:cts:greekLit:pta0013.pta003" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Amphilochius of Iconium, Epistula synodalis</ti:label>
+    <ti:description xml:lang="eng">Amphilochius of Iconium, Epistula synodalis</ti:description>
+  </ti:edition>
+</ti:work>

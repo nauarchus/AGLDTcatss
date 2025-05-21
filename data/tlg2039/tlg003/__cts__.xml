@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2039" projid="greekLit:tlg2039" urn="urn:cts:greekLit:tlg2039.tlg003" xml:lang="grc">
+  <ti:title xml:lang="eng">Fragmentum [Sp.] (e cod. Paris. suppl. gr. 387, fol. 181r)</ti:title>
+  <ti:author xml:lang="eng">Diophantus Alexandrinus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2039.tlg003.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2039.tlg003" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Diophantus Alexandrinus, Fragmentum [Sp.] (e cod. Paris. suppl. gr. 387, fol. 181r)</ti:label>
+    <ti:description xml:lang="eng">Diophantus Alexandrinus, Fragmentum [Sp.] (e cod. Paris. suppl. gr. 387, fol. 181r)</ti:description>
+  </ti:edition>
+</ti:work>

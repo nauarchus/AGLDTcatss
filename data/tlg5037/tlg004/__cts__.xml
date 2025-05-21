@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg5037" projid="greekLit:tlg5037" urn="urn:cts:greekLit:tlg5037.tlg004" xml:lang="grc">
+  <ti:title xml:lang="eng">Scholia in Sophoclem (scholia vetera)</ti:title>
+  <ti:author xml:lang="eng">Scholia in Sophoclem</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg5037.tlg004.agdtm-grc1" workUrn="urn:cts:greekLit:tlg5037.tlg004" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Scholia in Sophoclem, Scholia in Sophoclem (scholia vetera)</ti:label>
+    <ti:description xml:lang="eng">Scholia in Sophoclem, Scholia in Sophoclem (scholia vetera)</ti:description>
+  </ti:edition>
+</ti:work>

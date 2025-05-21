@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1443" projid="greekLit:tlg1443" urn="urn:cts:greekLit:tlg1443.tlg002" xml:lang="grc">
+  <ti:title xml:lang="eng">Epistulae interpolatae et epistulae suppositiciae (recensio longior) [Sp.]</ti:title>
+  <ti:author xml:lang="eng">Ignatius of Antioch</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1443.tlg002.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1443.tlg002" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Ignatius of Antioch, Epistulae interpolatae et epistulae suppositiciae (recensio longior) [Sp.]</ti:label>
+    <ti:description xml:lang="eng">Ignatius of Antioch, Epistulae interpolatae et epistulae suppositiciae (recensio longior) [Sp.]</ti:description>
+  </ti:edition>
+</ti:work>

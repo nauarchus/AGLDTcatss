@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1486" projid="greekLit:tlg1486" urn="urn:cts:greekLit:tlg1486.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Convivium Atticum</ti:title>
+  <ti:author xml:lang="eng">Matron of Pitana</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1486.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1486.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Matron of Pitana, Convivium Atticum</ti:label>
+    <ti:description xml:lang="eng">Matron of Pitana, Convivium Atticum</ti:description>
+  </ti:edition>
+</ti:work>

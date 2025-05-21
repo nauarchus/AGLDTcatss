@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:stoa0121" projid="greekLit:stoa0121" urn="urn:cts:greekLit:stoa0121.stoa001" xml:lang="grc">
+  <ti:title xml:lang="eng">Breviarium historiae romanae</ti:title>
+  <ti:author xml:lang="eng">Eutropius</ti:author>
+  <ti:edition urn="urn:cts:greekLit:stoa0121.stoa001.agdtm-grc1" workUrn="urn:cts:greekLit:stoa0121.stoa001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Eutropius, Breviarium historiae romanae</ti:label>
+    <ti:description xml:lang="eng">Eutropius, Breviarium historiae romanae</ti:description>
+  </ti:edition>
+</ti:work>

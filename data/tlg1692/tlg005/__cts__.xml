@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1692" projid="greekLit:tlg1692" urn="urn:cts:greekLit:tlg1692.tlg005" xml:lang="grc">
+  <ti:title xml:lang="eng">Fragmenta</ti:title>
+  <ti:author xml:lang="eng">Speusippus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1692.tlg005.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1692.tlg005" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Speusippus, Fragmenta</ti:label>
+    <ti:description xml:lang="eng">Speusippus, Fragmenta</ti:description>
+  </ti:edition>
+</ti:work>

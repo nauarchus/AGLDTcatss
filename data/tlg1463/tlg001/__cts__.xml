@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1463" projid="greekLit:tlg1463" urn="urn:cts:greekLit:tlg1463.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Apocalypsis Enochi</ti:title>
+  <ti:author xml:lang="eng">Liber Enoch</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1463.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1463.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Liber Enoch, Apocalypsis Enochi</ti:label>
+    <ti:description xml:lang="eng">Liber Enoch, Apocalypsis Enochi</ti:description>
+  </ti:edition>
+</ti:work>

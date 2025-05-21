@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0616" projid="greekLit:tlg0616" urn="urn:cts:greekLit:tlg0616.tlg002" xml:lang="grc">
+  <ti:title xml:lang="eng">Excerpta Polyaeni</ti:title>
+  <ti:author xml:lang="eng">Polyaenus Macedo</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0616.tlg002.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0616.tlg002" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Polyaenus Macedo, Excerpta Polyaeni</ti:label>
+    <ti:description xml:lang="eng">Polyaenus Macedo, Excerpta Polyaeni</ti:description>
+  </ti:edition>
+</ti:work>

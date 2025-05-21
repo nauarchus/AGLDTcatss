@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0097" projid="greekLit:tlg0097" urn="urn:cts:greekLit:tlg0097.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Paroemiae (epitome operis sub nomine Diogeniani) (e cod. Mazarinco)</ti:title>
+  <ti:author xml:lang="eng">Diogenianus of Heraclea</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0097.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0097.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Diogenianus of Heraclea, Paroemiae (epitome operis sub nomine Diogeniani) (e cod. Mazarinco)</ti:label>
+    <ti:description xml:lang="eng">Diogenianus of Heraclea, Paroemiae (epitome operis sub nomine Diogeniani) (e cod. Mazarinco)</ti:description>
+  </ti:edition>
+</ti:work>

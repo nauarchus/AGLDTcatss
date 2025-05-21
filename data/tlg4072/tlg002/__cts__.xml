@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg4072" projid="greekLit:tlg4072" urn="urn:cts:greekLit:tlg4072.tlg002" xml:lang="grc">
+  <ti:title xml:lang="eng">Commentarius in dimensionem circuli</ti:title>
+  <ti:author xml:lang="eng">Eutocius</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg4072.tlg002.agdtm-grc1" workUrn="urn:cts:greekLit:tlg4072.tlg002" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Eutocius, Commentarius in dimensionem circuli</ti:label>
+    <ti:description xml:lang="eng">Eutocius, Commentarius in dimensionem circuli</ti:description>
+  </ti:edition>
+</ti:work>

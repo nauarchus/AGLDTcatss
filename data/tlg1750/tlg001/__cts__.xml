@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1750" projid="greekLit:tlg1750" urn="urn:cts:greekLit:tlg1750.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">De prophetarum vita et obitu (Dorothei recensio)</ti:title>
+  <ti:author xml:lang="eng">Vitae Prophetarum</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1750.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1750.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Vitae Prophetarum, De prophetarum vita et obitu (Dorothei recensio)</ti:label>
+    <ti:description xml:lang="eng">Vitae Prophetarum, De prophetarum vita et obitu (Dorothei recensio)</ti:description>
+  </ti:edition>
+</ti:work>

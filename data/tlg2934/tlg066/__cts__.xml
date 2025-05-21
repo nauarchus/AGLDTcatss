@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2934" projid="greekLit:tlg2934" urn="urn:cts:greekLit:tlg2934.tlg066" xml:lang="grc">
+  <ti:title xml:lang="eng">Vita Barlaam et Joasaph</ti:title>
+  <ti:author xml:lang="eng">John of Damascus, Saint</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2934.tlg066.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2934.tlg066" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">John of Damascus, Saint, Vita Barlaam et Joasaph</ti:label>
+    <ti:description xml:lang="eng">John of Damascus, Saint, Vita Barlaam et Joasaph</ti:description>
+  </ti:edition>
+</ti:work>

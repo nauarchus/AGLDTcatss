@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0561" projid="greekLit:tlg0561" urn="urn:cts:greekLit:tlg0561.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Daphnis and Chloe</ti:title>
+  <ti:author xml:lang="eng">Longus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0561.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0561.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Longus, Daphnis and Chloe</ti:label>
+    <ti:description xml:lang="eng">Longus, Daphnis and Chloe</ti:description>
+  </ti:edition>
+</ti:work>

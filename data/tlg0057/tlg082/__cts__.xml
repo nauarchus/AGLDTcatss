@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0057" projid="greekLit:tlg0057" urn="urn:cts:greekLit:tlg0057.tlg082" xml:lang="grc">
+  <ti:title xml:lang="eng">De sophismatis seu captionibus penes dictionem</ti:title>
+  <ti:author xml:lang="eng">Galen</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0057.tlg082.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0057.tlg082" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Galen, De sophismatis seu captionibus penes dictionem</ti:label>
+    <ti:description xml:lang="eng">Galen, De sophismatis seu captionibus penes dictionem</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:pta0001" projid="greekLit:pta0001" urn="urn:cts:greekLit:pta0001.pta038" xml:lang="grc">
+  <ti:title xml:lang="eng">In illud: Secundum imaginem et similitudinem</ti:title>
+  <ti:author xml:lang="eng">Severian of Gabala</ti:author>
+  <ti:edition urn="urn:cts:greekLit:pta0001.pta038.agdtm-grc1" workUrn="urn:cts:greekLit:pta0001.pta038" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Severian of Gabala, In illud: Secundum imaginem et similitudinem</ti:label>
+    <ti:description xml:lang="eng">Severian of Gabala, In illud: Secundum imaginem et similitudinem</ti:description>
+  </ti:edition>
+</ti:work>

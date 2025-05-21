@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0627" projid="greekLit:tlg0627" urn="urn:cts:greekLit:tlg0627.tlg024a" xml:lang="grc">
+  <ti:title xml:lang="eng">De genitura</ti:title>
+  <ti:author xml:lang="eng">Hippocrates</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0627.tlg024a.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0627.tlg024a" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Hippocrates, De genitura</ti:label>
+    <ti:description xml:lang="eng">Hippocrates, De genitura</ti:description>
+  </ti:edition>
+</ti:work>

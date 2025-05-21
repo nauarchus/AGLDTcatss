@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2034" projid="greekLit:tlg2034" urn="urn:cts:greekLit:tlg2034.tlg003" xml:lang="grc">
+  <ti:title xml:lang="eng">De abstinentia</ti:title>
+  <ti:author xml:lang="eng">Porphyrius</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2034.tlg003.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2034.tlg003" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Porphyrius, De abstinentia</ti:label>
+    <ti:description xml:lang="eng">Porphyrius, De abstinentia</ti:description>
+  </ti:edition>
+</ti:work>

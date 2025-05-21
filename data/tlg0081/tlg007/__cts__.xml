@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0081" projid="greekLit:tlg0081" urn="urn:cts:greekLit:tlg0081.tlg007" xml:lang="grc">
+  <ti:title xml:lang="eng">Libri secundi de antiquis oratoribus reliquiae</ti:title>
+  <ti:author xml:lang="eng">Dionysius of Halicarnassus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0081.tlg007.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0081.tlg007" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Dionysius of Halicarnassus, Libri secundi de antiquis oratoribus reliquiae</ti:label>
+    <ti:description xml:lang="eng">Dionysius of Halicarnassus, Libri secundi de antiquis oratoribus reliquiae</ti:description>
+  </ti:edition>
+</ti:work>

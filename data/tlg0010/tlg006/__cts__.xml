@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0010" projid="greekLit:tlg0010" urn="urn:cts:greekLit:tlg0010.tlg006" xml:lang="grc">
+  <ti:title xml:lang="eng">Aegineticus</ti:title>
+  <ti:author xml:lang="eng">Isocrates</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0010.tlg006.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0010.tlg006" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Isocrates, Aegineticus</ti:label>
+    <ti:description xml:lang="eng">Isocrates, Aegineticus</ti:description>
+  </ti:edition>
+</ti:work>

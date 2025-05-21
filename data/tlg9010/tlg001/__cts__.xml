@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg9010" projid="greekLit:tlg9010" urn="urn:cts:greekLit:tlg9010.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Suidae lexicon</ti:title>
+  <ti:author xml:lang="eng">Suda</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg9010.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg9010.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Suda, Suidae lexicon</ti:label>
+    <ti:description xml:lang="eng">Suda, Suidae lexicon</ti:description>
+  </ti:edition>
+</ti:work>

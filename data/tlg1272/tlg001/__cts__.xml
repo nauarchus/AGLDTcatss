@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1272" projid="greekLit:tlg1272" urn="urn:cts:greekLit:tlg1272.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">De motu circulari corporum caelestium</ti:title>
+  <ti:author xml:lang="eng">Cleomedes</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1272.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1272.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Cleomedes, De motu circulari corporum caelestium</ti:label>
+    <ti:description xml:lang="eng">Cleomedes, De motu circulari corporum caelestium</ti:description>
+  </ti:edition>
+</ti:work>

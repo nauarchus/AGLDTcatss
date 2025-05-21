@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2586" projid="greekLit:tlg2586" urn="urn:cts:greekLit:tlg2586.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Διαίρεσις τῶν ἐπιδεικτικῶν</ti:title>
+  <ti:author xml:lang="eng">Menander Rhetor</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2586.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2586.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Menander Rhetor, Διαίρεσις τῶν ἐπιδεικτικῶν</ti:label>
+    <ti:description xml:lang="eng">Menander Rhetor, Διαίρεσις τῶν ἐπιδεικτικῶν</ti:description>
+  </ti:edition>
+</ti:work>

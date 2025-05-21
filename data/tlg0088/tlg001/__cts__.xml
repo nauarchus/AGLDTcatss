@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0088" projid="greekLit:tlg0088" urn="urn:cts:greekLit:tlg0088.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Ἁρμονικὰ στοιχεῖα</ti:title>
+  <ti:author xml:lang="eng">Aristoxenus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0088.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0088.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Aristoxenus, Ἁρμονικὰ στοιχεῖα</ti:label>
+    <ti:description xml:lang="eng">Aristoxenus, Ἁρμονικὰ στοιχεῖα</ti:description>
+  </ti:edition>
+</ti:work>

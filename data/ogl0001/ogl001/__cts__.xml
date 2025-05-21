@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:ogl0001" projid="greekLit:ogl0001" urn="urn:cts:greekLit:ogl0001.ogl001" xml:lang="grc">
+  <ti:title xml:lang="eng">De Epistola Pinyti ad Dionysium</ti:title>
+  <ti:author xml:lang="eng">Pinytus, Saint, Bishop of Knossos</ti:author>
+  <ti:edition urn="urn:cts:greekLit:ogl0001.ogl001.agdtm-grc1" workUrn="urn:cts:greekLit:ogl0001.ogl001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Pinytus, Saint, Bishop of Knossos, De Epistola Pinyti ad Dionysium</ti:label>
+    <ti:description xml:lang="eng">Pinytus, Saint, Bishop of Knossos, De Epistola Pinyti ad Dionysium</ti:description>
+  </ti:edition>
+</ti:work>

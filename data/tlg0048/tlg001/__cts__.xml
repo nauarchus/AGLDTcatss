@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0048" projid="greekLit:tlg0048" urn="urn:cts:greekLit:tlg0048.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Epistulae</ti:title>
+  <ti:author xml:lang="eng">Philip II, King of Macedonia</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0048.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0048.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Philip II, King of Macedonia, Epistulae</ti:label>
+    <ti:description xml:lang="eng">Philip II, King of Macedonia, Epistulae</ti:description>
+  </ti:edition>
+</ti:work>

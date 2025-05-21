@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:pta0029" projid="greekLit:pta0029" urn="urn:cts:greekLit:pta0029.pta002" xml:lang="grc">
+  <ti:title xml:lang="eng">De sabbatis et circumcisione</ti:title>
+  <ti:author xml:lang="eng">Ps.-Athanasius of Alexandria</ti:author>
+  <ti:edition urn="urn:cts:greekLit:pta0029.pta002.agdtm-grc1" workUrn="urn:cts:greekLit:pta0029.pta002" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Ps.-Athanasius of Alexandria, De sabbatis et circumcisione</ti:label>
+    <ti:description xml:lang="eng">Ps.-Athanasius of Alexandria, De sabbatis et circumcisione</ti:description>
+  </ti:edition>
+</ti:work>

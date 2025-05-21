@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0061" projid="greekLit:tlg0061" urn="urn:cts:greekLit:tlg0061.tlg008" xml:lang="grc">
+  <ti:title xml:lang="eng">Charidemus</ti:title>
+  <ti:author xml:lang="eng">Pseudo-Lucian</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0061.tlg008.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0061.tlg008" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Pseudo-Lucian, Charidemus</ti:label>
+    <ti:description xml:lang="eng">Pseudo-Lucian, Charidemus</ti:description>
+  </ti:edition>
+</ti:work>

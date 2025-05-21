@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0014" projid="greekLit:tlg0014" urn="urn:cts:greekLit:tlg0014.tlg059" xml:lang="grc">
+  <ti:title xml:lang="eng">Theomnestus and Apollodorus Against Neaera</ti:title>
+  <ti:author xml:lang="eng">Demosthenes</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0014.tlg059.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0014.tlg059" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Demosthenes, Theomnestus and Apollodorus Against Neaera</ti:label>
+    <ti:description xml:lang="eng">Demosthenes, Theomnestus and Apollodorus Against Neaera</ti:description>
+  </ti:edition>
+</ti:work>

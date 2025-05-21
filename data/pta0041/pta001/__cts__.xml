@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:pta0041" projid="greekLit:pta0041" urn="urn:cts:greekLit:pta0041.pta001" xml:lang="grc">
+  <ti:title xml:lang="eng">Vita sancti Cononis Bidanae</ti:title>
+  <ti:author xml:lang="eng">Anonymus (Author of Vita Cononis)</ti:author>
+  <ti:edition urn="urn:cts:greekLit:pta0041.pta001.agdtm-grc1" workUrn="urn:cts:greekLit:pta0041.pta001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Anonymus (Author of Vita Cononis), Vita sancti Cononis Bidanae</ti:label>
+    <ti:description xml:lang="eng">Anonymus (Author of Vita Cononis), Vita sancti Cononis Bidanae</ti:description>
+  </ti:edition>
+</ti:work>

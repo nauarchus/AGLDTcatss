@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1286" projid="greekLit:tlg1286" urn="urn:cts:greekLit:tlg1286.tlg008" xml:lang="grc">
+  <ti:title xml:lang="eng">Ὅτι οὐδὲν τῶν ὄντων ἀπόλλυται, ἀλλὰ τὰς μεταβολὰς ἀπωλείας καὶ θανάτους πλανώμενοι λέγουσιν</ti:title>
+  <ti:author xml:lang="eng">Hermetica</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1286.tlg008.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1286.tlg008" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Hermetica, Ὅτι οὐδὲν τῶν ὄντων ἀπόλλυται, ἀλλὰ τὰς μεταβολὰς ἀπωλείας καὶ θανάτους πλανώμενοι λέγουσιν</ti:label>
+    <ti:description xml:lang="eng">Hermetica, Ὅτι οὐδὲν τῶν ὄντων ἀπόλλυται, ἀλλὰ τὰς μεταβολὰς ἀπωλείας καὶ θανάτους πλανώμενοι λέγουσιν</ti:description>
+  </ti:edition>
+</ti:work>

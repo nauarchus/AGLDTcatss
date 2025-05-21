@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:pta0001" projid="greekLit:pta0001" urn="urn:cts:greekLit:pta0001.pta045" xml:lang="grc">
+  <ti:title xml:lang="eng">In Iob sermo 1</ti:title>
+  <ti:author xml:lang="eng">Severian of Gabala</ti:author>
+  <ti:edition urn="urn:cts:greekLit:pta0001.pta045.agdtm-grc1" workUrn="urn:cts:greekLit:pta0001.pta045" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Severian of Gabala, In Iob sermo 1</ti:label>
+    <ti:description xml:lang="eng">Severian of Gabala, In Iob sermo 1</ti:description>
+  </ti:edition>
+</ti:work>

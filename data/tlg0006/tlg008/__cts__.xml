@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0006" projid="greekLit:tlg0006" urn="urn:cts:greekLit:tlg0006.tlg008" xml:lang="grc">
+  <ti:title xml:lang="eng">Suppliants_The Suppliant Maidens_Supplices</ti:title>
+  <ti:author xml:lang="eng">Euripides</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0006.tlg008.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0006.tlg008" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Euripides, Suppliants_The Suppliant Maidens_Supplices</ti:label>
+    <ti:description xml:lang="eng">Euripides, Suppliants_The Suppliant Maidens_Supplices</ti:description>
+  </ti:edition>
+</ti:work>

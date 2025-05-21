@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0592" projid="greekLit:tlg0592" urn="urn:cts:greekLit:tlg0592.tlg002" xml:lang="grc">
+  <ti:title xml:lang="eng">Περὶ στάσεων</ti:title>
+  <ti:author xml:lang="eng">Hermogenes</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0592.tlg002.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0592.tlg002" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Hermogenes, Περὶ στάσεων</ti:label>
+    <ti:description xml:lang="eng">Hermogenes, Περὶ στάσεων</ti:description>
+  </ti:edition>
+</ti:work>

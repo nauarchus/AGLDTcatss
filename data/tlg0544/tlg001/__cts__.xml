@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0544" projid="greekLit:tlg0544" urn="urn:cts:greekLit:tlg0544.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Pyrrhoniae Hypotyposes</ti:title>
+  <ti:author xml:lang="eng">Sextus Empiricus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0544.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0544.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Sextus Empiricus, Pyrrhoniae Hypotyposes</ti:label>
+    <ti:description xml:lang="eng">Sextus Empiricus, Pyrrhoniae Hypotyposes</ti:description>
+  </ti:edition>
+</ti:work>

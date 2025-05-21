@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:pta0100" projid="greekLit:pta0100" urn="urn:cts:greekLit:pta0100.pta004" xml:lang="grc">
+  <ti:title xml:lang="eng">Dok. 4: Brief des Eusebius von Nikomedien an Paulinus von Tyrus</ti:title>
+  <ti:author xml:lang="eng">Dokumente zur Geschichte des arianischen Streites (Athanasius Werke III)</ti:author>
+  <ti:edition urn="urn:cts:greekLit:pta0100.pta004.agdtm-grc1" workUrn="urn:cts:greekLit:pta0100.pta004" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Dokumente zur Geschichte des arianischen Streites (Athanasius Werke III), Dok. 4: Brief des Eusebius von Nikomedien an Paulinus von Tyrus</ti:label>
+    <ti:description xml:lang="eng">Dokumente zur Geschichte des arianischen Streites (Athanasius Werke III), Dok. 4: Brief des Eusebius von Nikomedien an Paulinus von Tyrus</ti:description>
+  </ti:edition>
+</ti:work>

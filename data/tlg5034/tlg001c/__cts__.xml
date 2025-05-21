@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg5034" projid="greekLit:tlg5034" urn="urn:cts:greekLit:tlg5034.tlg001c" xml:lang="grc">
+  <ti:title xml:lang="eng">Scholia in Pindarum Nemean Odes</ti:title>
+  <ti:author xml:lang="eng">Scholia in Pindarum</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg5034.tlg001c.agdtm-grc1" workUrn="urn:cts:greekLit:tlg5034.tlg001c" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Scholia in Pindarum, Scholia in Pindarum Nemean Odes</ti:label>
+    <ti:description xml:lang="eng">Scholia in Pindarum, Scholia in Pindarum Nemean Odes</ti:description>
+  </ti:edition>
+</ti:work>

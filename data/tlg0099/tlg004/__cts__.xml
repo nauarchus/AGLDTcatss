@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0099" projid="greekLit:tlg0099" urn="urn:cts:greekLit:tlg0099.tlg004" xml:lang="grc">
+  <ti:title xml:lang="eng">Geographiae Chrestomathia</ti:title>
+  <ti:author xml:lang="eng">Strabo</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0099.tlg004.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0099.tlg004" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Strabo, Geographiae Chrestomathia</ti:label>
+    <ti:description xml:lang="eng">Strabo, Geographiae Chrestomathia</ti:description>
+  </ti:edition>
+</ti:work>

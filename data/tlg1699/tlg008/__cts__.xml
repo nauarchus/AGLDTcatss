@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg1699" projid="greekLit:tlg1699" urn="urn:cts:greekLit:tlg1699.tlg008" xml:lang="grc">
+  <ti:title xml:lang="eng">Περὶ ἀπαθείας</ti:title>
+  <ti:author xml:lang="eng">Teles Megarenesis</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg1699.tlg008.agdtm-grc1" workUrn="urn:cts:greekLit:tlg1699.tlg008" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Teles Megarenesis, Περὶ ἀπαθείας</ti:label>
+    <ti:description xml:lang="eng">Teles Megarenesis, Περὶ ἀπαθείας</ti:description>
+  </ti:edition>
+</ti:work>

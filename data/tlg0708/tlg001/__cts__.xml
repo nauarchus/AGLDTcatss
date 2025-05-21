@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0708" projid="greekLit:tlg0708" urn="urn:cts:greekLit:tlg0708.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">περὶ ὁμοίων καὶ διαφόρων λέξεων</ti:title>
+  <ti:author xml:lang="eng">Ammonius Grammaticus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0708.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0708.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Ammonius Grammaticus, περὶ ὁμοίων καὶ διαφόρων λέξεων</ti:label>
+    <ti:description xml:lang="eng">Ammonius Grammaticus, περὶ ὁμοίων καὶ διαφόρων λέξεων</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0732" projid="greekLit:tlg0732" urn="urn:cts:greekLit:tlg0732.tlg013" xml:lang="grc">
+  <ti:title xml:lang="eng">Ἠθικὰ προβλήματα [Sp.]</ti:title>
+  <ti:author xml:lang="eng">Alexander of Aphrodisias</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0732.tlg013.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0732.tlg013" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Alexander of Aphrodisias, Ἠθικὰ προβλήματα [Sp.]</ti:label>
+    <ti:description xml:lang="eng">Alexander of Aphrodisias, Ἠθικὰ προβλήματα [Sp.]</ti:description>
+  </ti:edition>
+</ti:work>

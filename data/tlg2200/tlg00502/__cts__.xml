@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2200" projid="greekLit:tlg2200" urn="urn:cts:greekLit:tlg2200.tlg00502" xml:lang="grc">
+  <ti:title xml:lang="eng">Declamatio 2</ti:title>
+  <ti:author xml:lang="eng">Libanius</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2200.tlg00502.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2200.tlg00502" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Libanius, Declamatio 2</ti:label>
+    <ti:description xml:lang="eng">Libanius, Declamatio 2</ti:description>
+  </ti:edition>
+</ti:work>

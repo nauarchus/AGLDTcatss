@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2003" projid="greekLit:tlg2003" urn="urn:cts:greekLit:tlg2003.tlg011" xml:lang="grc">
+  <ti:title xml:lang="eng">Hymn to King Helios Dedicated to Sallust</ti:title>
+  <ti:author xml:lang="eng">Julian, Emperor of Rome</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2003.tlg011.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2003.tlg011" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Julian, Emperor of Rome, Hymn to King Helios Dedicated to Sallust</ti:label>
+    <ti:description xml:lang="eng">Julian, Emperor of Rome, Hymn to King Helios Dedicated to Sallust</ti:description>
+  </ti:edition>
+</ti:work>

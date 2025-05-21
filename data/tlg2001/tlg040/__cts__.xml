@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2001" projid="greekLit:tlg2001" urn="urn:cts:greekLit:tlg2001.tlg040" xml:lang="grc">
+  <ti:title xml:lang="eng">In Aristotelis Libros De Anima Paraphrasis</ti:title>
+  <ti:author xml:lang="eng">Themistius</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2001.tlg040.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2001.tlg040" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Themistius, In Aristotelis Libros De Anima Paraphrasis</ti:label>
+    <ti:description xml:lang="eng">Themistius, In Aristotelis Libros De Anima Paraphrasis</ti:description>
+  </ti:edition>
+</ti:work>

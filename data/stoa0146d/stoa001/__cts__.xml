@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:stoa0146d" projid="greekLit:stoa0146d" urn="urn:cts:greekLit:stoa0146d.stoa001" xml:lang="grc">
+  <ti:title xml:lang="eng">Acta Archelai</ti:title>
+  <ti:author xml:lang="eng">Hegemonius</ti:author>
+  <ti:edition urn="urn:cts:greekLit:stoa0146d.stoa001.agdtm-grc1" workUrn="urn:cts:greekLit:stoa0146d.stoa001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Hegemonius, Acta Archelai</ti:label>
+    <ti:description xml:lang="eng">Hegemonius, Acta Archelai</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0031" projid="greekLit:tlg0031" urn="urn:cts:greekLit:tlg0031.tlg009" xml:lang="grc">
+  <ti:title xml:lang="eng">Epistula Pauli ad Galatas</ti:title>
+  <ti:author xml:lang="eng">Bible</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0031.tlg009.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0031.tlg009" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Bible, Epistula Pauli ad Galatas</ti:label>
+    <ti:description xml:lang="eng">Bible, Epistula Pauli ad Galatas</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2806" projid="greekLit:tlg2806" urn="urn:cts:greekLit:tlg2806.tlg001" xml:lang="grc">
+  <ti:title xml:lang="eng">Vita Porphyrii episcopi Gazensis</ti:title>
+  <ti:author xml:lang="eng">Marcus Diaconus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2806.tlg001.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2806.tlg001" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Marcus Diaconus, Vita Porphyrii episcopi Gazensis</ti:label>
+    <ti:description xml:lang="eng">Marcus Diaconus, Vita Porphyrii episcopi Gazensis</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0093" projid="greekLit:tlg0093" urn="urn:cts:greekLit:tlg0093.tlg010x08" xml:lang="grc">
+  <ti:title xml:lang="eng">De Nervorum Resolutione</ti:title>
+  <ti:author xml:lang="eng">Theophrastus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg0093.tlg010x08.agdtm-grc1" workUrn="urn:cts:greekLit:tlg0093.tlg010x08" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Theophrastus, De Nervorum Resolutione</ti:label>
+    <ti:description xml:lang="eng">Theophrastus, De Nervorum Resolutione</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg4075" projid="greekLit:tlg4075" urn="urn:cts:greekLit:tlg4075.tlg002" xml:lang="grc">
+  <ti:title xml:lang="eng">Commentarium in Euclidis data</ti:title>
+  <ti:author xml:lang="eng">Marinus, 5th century</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg4075.tlg002.agdtm-grc1" workUrn="urn:cts:greekLit:tlg4075.tlg002" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Marinus, 5th century, Commentarium in Euclidis data</ti:label>
+    <ti:description xml:lang="eng">Marinus, 5th century, Commentarium in Euclidis data</ti:description>
+  </ti:edition>
+</ti:work>

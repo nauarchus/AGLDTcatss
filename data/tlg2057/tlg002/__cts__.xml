@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg2057" projid="greekLit:tlg2057" urn="urn:cts:greekLit:tlg2057.tlg002" xml:lang="grc">
+  <ti:title xml:lang="eng">Ecclesiastical history_Historica Ecclesiastica</ti:title>
+  <ti:author xml:lang="eng">Socrates Scholasticus</ti:author>
+  <ti:edition urn="urn:cts:greekLit:tlg2057.tlg002.agdtm-grc1" workUrn="urn:cts:greekLit:tlg2057.tlg002" xml:lang="grc">
+    <ti:editor xml:lang="eng">placeholder</ti:editor>
+    <ti:label xml:lang="eng">Socrates Scholasticus, Ecclesiastical history_Historica Ecclesiastica</ti:label>
+    <ti:description xml:lang="eng">Socrates Scholasticus, Ecclesiastical history_Historica Ecclesiastica</ti:description>
+  </ti:edition>
+</ti:work>
