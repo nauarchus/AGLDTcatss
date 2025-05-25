@@ -64,27 +64,32 @@ All characters are Unicode (UTF-8) and composed (NFC). Thus each character corre
 
 ## Data sources
 
-The main data source for this repository is version 0.2.0 of the Opera Graeca Adnotata, curated by Giuseppe Celano at the University of Leipzig, archived at [Zenodo](https://doi.org/10.5281/zenodo.14206061) on 2024-11-24, and distributed under a CC BY-SA 4.0 license allowing for Sharealike reuse.
+The main data source for this repository is the [AGDTmini](https://github.com/nauarchus/AGDTmini) repository, with the main difference being that AGDTmini uses the standard AGDT morphological tags, rather than the simpler, more compressed CATSS/BGM morphological tags.
+
+The AGDTmini repository, in turn, is derived largely from version 0.2.0 of the [Opera Graeca Adnotata](https://doi.org/10.5281/zenodo.14206061), curated by Giuseppe Celano at the University of Leipzig, archived at on 2024-11-24, and distributed under a CC BY-SA 4.0 license allowing for Sharealike reuse.
 
 Additional works will likely be added from the GLAUx corpus if they are 1) not present in OGA and 2) have licenses sufficiently permissive to allow for reuse.
 
 The OGA and GLAUx corpora were in turn derived from several major corpora of digital editions of classical Greek texts, most notably the [Perseus Project](https://github.com/PerseusDL/canonical-greekLit) (Department of Classics, Tufts University) and closely connected [First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek) project. First1KGreek is funded by the "Harvard Library Arcadia Fund, European Social Fund, and the Alexander-von-Humboldt professorship for Digital Humanities at Leipzig. The data has been produced in an international cooperation with the Center for Hellenic Studies, the Harvard Library, Mount Alison University, Tufts University, the University of Leipzig, and the University of Virginia." Significant contributions, particularly to Patristic and early Christian literature, were made available to OGA through the [Patristic Text Archive](https://github.com/PatristicTextArchive/pta_data) thanks to funding from Academies Programme and housed at the Berlin-Brandenburg Academy of Sciences and Humanities. Contributions of digital editions and most of the canonical text service ontology come by way of the famous [Thesaurus Linguae Graecae](https://stephanus.tlg.uci.edu/index.php#login=true) centered at the University of California, Irvine.
 
+OGA annotation includes morphosyntactical features based on the as well as data (sometimes provisional) pertaining to authorship and likely date or date range of composition.
+
 Elsewhere I have archived a [simple comparison of documents in the OGA and GLAUx corpora](https://doi.org/10.5281/zenodo.14254072), which shows at a glance which documents are unique to OGA, which are unique to GLAUx, and which texts overlap between the two.
 
 ## Downstream Data
 
-The CATnaPS repository is a derivative of this repository, with the only difference being that CATSS/BGM (Computer Assisted Tools for Septuagint/Scripture Studies, BibleWorks Greek Morphology) tags are used instead of AGDT tags.
+The [CATnaPS repository](https://github.com/nauarchus/CATnaPS) is a derivative of this repository, with the only difference being that CATSS/BGM (Computer Assisted Tools for Septuagint/Scripture Studies, BibleWorks Greek Morphology) tags are used instead of AGDT tags.
 
 ## Citation
 
 The OGA corpus was described in this earlier article that corresponds to v0.1.0, which is the preferred publication for citation.
 
-> Celano, Giuseppe A. "Opera Graeca Adnotata: Building a 34M+ Token Multilayer Corpus for Ancient Greek". arXiv cs.CL. 2024-03-14. https://doi.org/10.48550/arXiv.2404.00739.
+> Celano, Giuseppe A. "Opera Graeca Adnotata: Building a 34M+ Token Multilayer Corpus for Ancient Greek". arXiv cs.CL. 2024-03-14. doi: [10.48550/arXiv.2404.00739](https://doi.org/10.48550/arXiv.2404.00739).
 
 The GLAUx corpus was described in this earlier article:
 
 > Keersmaekers, Alek (2021): The GLAUx corpus: methodological issues in designing a long-term, diverse, multi-layered corpus of Ancient Greek. *Proceedings of the 2nd International Workshop on Computational Approaches to Historical Language Change 2021*, 39–50. Online: Association for Computational Linguistics. doi:10.18653/v1/2021.lchange-1.6.
 
 To cite this repository specifically, and/or to access its archival version on Zenodo, see:
-> Bilby, Mark G. "AGDTmini: Ancient Greek Lemma, Part of Speech, and Morphology Strings". Release 0.2.0. 2025-05-20. {doi_forthcoming}
+
+> Bilby, Mark G. "AGDTmini: Ancient Greek Lemma, Part of Speech, and Morphology Strings". Release 0.2.0. 2025-05-20. doi: [10.5281/zenodo.15508451](https://doi.org/10.5281/zenodo.15508451)
