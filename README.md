@@ -55,8 +55,9 @@ Text fields contain the running sequence of lemma@XPOS values for each specific 
 
 For example, the opening verse of the Gospel of Matthew reads:
 
-
-A key to the BibleWorks Greek Morphology is available on Zenodo.
+βιβλοσ@n-s---mn- γένεσις@n-s---fg- ἰησοῦς@n-s---mg- χριστός@n-s---mg- υἱός@n-s---mg- δαυείδ@n-s---mg- υἱός@n-s---mg- ἀβρααμ@n-s---mg-
+ 
+The [Ancient Greek Dependent Treebank 2.0 documentation](https://github.com/PerseusDL/treebank_data/edit/master/AGDT2/guide) is available in Github.
 
 ## Character Encoding
 
@@ -64,9 +65,7 @@ All characters are Unicode (UTF-8) and composed (NFC). Thus each character corre
 
 ## Data sources
 
-The main data source for this repository is the [AGDTmini](https://github.com/nauarchus/AGDTmini) repository, with the main difference being that AGDTmini uses the standard AGDT morphological tags, rather than the simpler, more compressed CATSS/BGM morphological tags.
-
-The AGDTmini repository, in turn, is derived largely from version 0.2.0 of the [Opera Graeca Adnotata](https://doi.org/10.5281/zenodo.14206061), curated by Giuseppe Celano at the University of Leipzig, archived at on 2024-11-24, and distributed under a CC BY-SA 4.0 license allowing for Sharealike reuse.
+The AGDTmini repository is derived largely from version 0.2.0 of the [Opera Graeca Adnotata](https://doi.org/10.5281/zenodo.14206061), curated by Giuseppe Celano at the University of Leipzig, archived at on 2024-11-24, and distributed under a CC BY-SA 4.0 license allowing for Sharealike reuse.
 
 Additional works will likely be added from the GLAUx corpus if they are 1) not present in OGA and 2) have licenses sufficiently permissive to allow for reuse.
 
