@@ -42,7 +42,7 @@ The middle part of the filename identifies the project or group, in our case, "a
 
 Finally, the filename suffix reflects the language and version. Currently, Greek is the only language in use, and typically only one version exists for each work.
 
-> *The entire filename for the Gospel of Matthew here is tlg0031.tlg001.agdtm-grc1.txt*
+> *The entire filename for the Gospel of Matthew here is tlg0031.tlg001.agdtm-grc1.csv*
 
 
 ## Text Structure
